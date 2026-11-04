@@ -58,4 +58,4 @@ Alpha: Goodbye!
 ```
 
 ## Author
-Tanvi – CodeAlpha Python Programming Intern
+Tanvi Joshi – CodeAlpha Python Programming Intern
